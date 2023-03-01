@@ -377,6 +377,11 @@ section .title::after{
 .skills-content .right .mysql::before{
     width: 70%;
 }
+.skills .skills-content .right .text{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
 
 /* teams section styling */
 .teams .title::after{
