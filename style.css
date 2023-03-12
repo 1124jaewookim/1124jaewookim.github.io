@@ -425,9 +425,10 @@ section .title::after{
     border-color: #fff;
 }
 
-.teams .personal-web {
+.teams a {
     color: white;
 }
+
 .owl-dots{
     text-align: center;
     margin-top: 20px;
