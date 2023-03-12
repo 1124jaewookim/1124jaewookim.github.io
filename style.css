@@ -425,7 +425,7 @@ section .title::after{
     border-color: #fff;
 }
 
-.teams a {
+.teams .carousel a {
     color: white;
 }
 .owl-dots{
