@@ -1,1 +1,1 @@
-This template is from Jon Barron.
+**This template is from [Jon Barron](https://jonbarron.info/).**
